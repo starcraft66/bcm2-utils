@@ -48,3 +48,9 @@ t_nonvol
 Makefile.win
 bcm2cfg.layout
 bcm2dump.layout
+
+# nix artifacts
+result
+
+# direnv
+.direnv
